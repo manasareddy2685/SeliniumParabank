@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GRID TEST WITH SERIAL EXECUTION WITH BROWSER EDGE"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="54.657">
+    <properties></properties>
+
+
+
+            <testcase
+                name="GridType"
+                time="54.657"
+                classname="Test.MailTest">
+            </testcase>
+</testsuite>
